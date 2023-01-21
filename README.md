@@ -9,3 +9,4 @@ Features of the platform
 ## Team members
 - Julie Trinh @julietrinh1
 - Fatema Akther @fatema-a
+- Craig Kogan @DragonGawain
