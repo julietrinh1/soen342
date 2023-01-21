@@ -10,3 +10,4 @@ Features of the platform
 - Julie Trinh @julietrinh1
 - Fatema Akther @fatema-a
 - Craig Kogan @DragonGawain
+- Karyenne Vuong @karyennevu
