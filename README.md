@@ -11,3 +11,4 @@ Features of the platform
 - Fatema Akther @fatema-a
 - Craig Kogan @DragonGawain
 - Karyenne Vuong @karyennevu
+- Flora Avakian @flo351
