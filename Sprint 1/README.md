@@ -1,1 +1,1 @@
-# Milestones for Sprint 1
+# Milestones for Sprint 1:
